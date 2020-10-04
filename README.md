@@ -13,14 +13,14 @@
 
 ------ 
 ## Title
-    README
+    Employee Team Generator
 
 ## Description 
     Welcome to the Employee Team Generator tool! This application can be used to quickly and neatly enter and organize data about employees working on a team, including but not limited to their names, roles, contact information, and role-specific entries.
     
     This is a CLI that will accept user input directly and produce a beautiful rendered webpage displaying the information.
     
-    ![Deployed Webpage](http://url/to/img.png)
+    ![Deployed Webpage](Screen Shot 2020-10-04 at 2.49.25 PM.png)
     
 ## Installation
     Run npm install to ensure the requisite package will be installed, which is needed in order to use the application properly.
