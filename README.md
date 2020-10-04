@@ -20,8 +20,6 @@
     
     This is a CLI that will accept user input directly and produce a beautiful rendered webpage displaying the information.
     
-    ![Example](https://raw.githubusercontent.com/c-hearst/Homework-10/Screen Shot 2020-10-04 at 2.49.25 PM.png)
-    
 ## Installation
     Run npm install to ensure the requisite package will be installed, which is needed in order to use the application properly.
 
